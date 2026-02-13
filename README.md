@@ -5,7 +5,7 @@ This project is an AI-based solution designed to detect whether a person is wear
 
 ## 📊 Dataset Information
 The model was trained using the **Face Mask Detection dataset from Kaggle**.
-- **Source:** [Kaggle - Face Mask Detection Dataset](https://www.kaggle.com)
+- **Source:** [Kaggle - Face Mask Detection Dataset]([https://www.kaggle.com](https://www.kaggle.com/datasets/andrewmvd/face-mask-detection])
 - **Content:** Images of people with and without masks.
 - **Preprocessing:** Images were resized to **100x100 pixels** and normalized (scaled by 1/255) to ensure faster and more accurate model training.
 
